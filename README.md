@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="20%"/>
 
   <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/panuwat-moonkham-79878821b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+  <a href="https://github.com/panuwat-moonkham">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Email Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.facebook.com/panuwat.moonkam.3/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
@@ -22,15 +22,11 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="30"> from Thailand.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. 
+- 🎓 Studying Digital Industry Integration at 𝚝𝚑𝚎 Chiang Mai University, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝ed March 𝟸0𝟸2
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Panuwat-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/panuwat-moonkham-79878821b)
 
 ---
 
