@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="20%"/>
 
   <div id="badges" align="center">
-  <a href="www.linkedin.com/in/panuwat-moonkham-79878821b">
+  <a href="https://www.linkedin.com/in/panuwat-moonkham-79878821b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/panuwat-moonkham">
@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/kJV3yFjaVYtl
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. 
 - 🎓 Studying Digital Industry Integration at 𝚝𝚑𝚎 Chiang Mai University, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝ed March 𝟸0𝟸2
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Panuwat-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/panuwat-moonkham-79878821b)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Panuwat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panuwat-moonkham-79878821b/)
 
 ---
 
